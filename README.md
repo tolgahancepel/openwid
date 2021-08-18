@@ -1,6 +1,6 @@
 <img src="doc/openwid-logo.png" alt="drawing" width="400"/>
 
-**openwid** (OpenWeather in Dash) is a Python package for creating daily weather forecast components in Plotly Dash framework.
+**openwid** (OpenWeather in Dash) is a Python package for creating daily weather forecast components in Plotly Dash framework. You can easily add a fully responsive weather forecast card to your Dash applications. Before starting, you need to get a unique API key from <a href="https://home.openweathermap.org/api_keys">OpenWeather</a> website.
 
 ## Install
 openwid can be installed using
