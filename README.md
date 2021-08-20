@@ -78,7 +78,7 @@ You can use this function to add a card component to your layout.
 get_card(
     city_name="CITY_NAME",
     days=4,
-    bg_color="#00202f"
+    bg_color="teal"
 )
 ```
 

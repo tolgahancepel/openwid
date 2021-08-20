@@ -45,13 +45,13 @@ class Openwid:
 			]
 		)
 
-	def get_card(self, city_name, days=4, bg_color="#00202f"):
+	def get_card(self, city_name, days=4, bg_color="teal"):
 		""" Weather forecasting boostrap card component.
 
 		Args:
 			city_name (string): the city name in card header
 			days (int): how many days weather forecast will be shown, default=4
-			bg_color (string): background color of the weather card, default=#00202f
+			bg_color (string): background color of the weather card, default="teal"
 
 		Returns:
 			dbc.Card: bootstrap card component that shows weather forecast
