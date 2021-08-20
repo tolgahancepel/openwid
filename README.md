@@ -89,7 +89,7 @@ The ```get_card```function takes the following arguments:
 **days**  
 &emsp;how many days weather forecast will be shown, default=4  
 **bg_color**  
-&emsp;background color of the weather card, default=#00202f  
+&emsp;background color of the weather card, default="teal"  
 
 ## Screenshots
 <img src="doc/screenshot-1.png" alt="drawing"/>
