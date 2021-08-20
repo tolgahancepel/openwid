@@ -3,7 +3,7 @@ Weather forecasting components with OpenWaetherAPI.
 """
 
 # Authors: Tolgahan Cepel <tolgahan.cepel@gmail.com>
-# License: BSD 3 claus
+# License: MIT
 
 import requests
 import datetime
